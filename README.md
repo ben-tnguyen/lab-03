@@ -1,5 +1,8 @@
 # CMPUT 301 : Lab 3 Participation Exercise
+
+
 Full Name: <Benjamin Nguyen>
+
 CCID: <1907703>
 ## References and Resources
 
