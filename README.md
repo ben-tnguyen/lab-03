@@ -1,5 +1,6 @@
 # CMPUT 301 : Lab 3 Participation Exercise
-
+Full Name: <Benjamin Nguyen>
+CCID: <1907703>
 ## References and Resources
 
 List any resources used here, or simply put `N/A` if not applicable.
